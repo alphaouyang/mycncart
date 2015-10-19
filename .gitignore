@@ -1,2 +1,4 @@
 .project
-**/config.php
+/config.php
+/admin/config.php
+system/cache/cache.*
