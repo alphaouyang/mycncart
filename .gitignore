@@ -1,5 +1,11 @@
-.project
+/.buildpath
+/.project
+/.settings
 /config.php
 /admin/config.php
 system/cache/cache.*
 image/cache/**
+
+/vqmod/logs
+/vqmod/mods.cache
+/vqmod/vqcache/
